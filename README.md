@@ -48,14 +48,13 @@ This project is licensed under the [MIT License](LICENSE).
 ## Feedback and Contributions 📢
 
 Feedback, suggestions, and contributions are welcome!😊 If you have any ideas💡 to improve this Password Generator🔐 or want to report any issues, please open an issue on the GitHub repository.
-[![GitHub stars](https://img.shields.io/github/stars/developedbyjk/color-palette-generator.svg?style=social)](https://github.com/developedbyjk/color-palette-generator/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/developedbyjk/color-palette-generator.svg?style=social)](https://github.com/developedbyjk/color-palette-generator/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/developedbyjk/color-palette-generator.svg)](https://github.com/developedbyjk/color-palette-generator/issues)
+[![GitHub stars](https://img.shields.io/github/stars/developedbyjk/PasswordGenerator.svg?style=social)](https://github.com/developedbyjk/PasswordGenerator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/developedbyjk/PasswordGenerator.svg?style=social)](https://github.com/developedbyjk/PasswordGenerator/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/developedbyjk/PasswordGenerator.svg)](https://github.com/developedbyjk/PasswordGenerator/issues)
 
 ## Sceenshot 🖼️
 
-![WhatsApp Image 2023-10-18 at 9 24 15 PM (1)](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/24698300-e7fd-42cb-b021-7a7a52ffbc37)
-![download](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/55f8520f-5d35-4b0f-b854-3db56d03b502)
+
 
 
 
