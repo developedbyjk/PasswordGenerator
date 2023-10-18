@@ -118,6 +118,10 @@ function App() {
         <button onClick={generatePass} id="generate-btn" > <b>Generate</b> </button>
         
         </div>
+        
+        <footer>
+        <a href='https://www.instagram.com/developedbyjk/'>@developedbyjk</a>
+        </footer>
         </>
     )
 }

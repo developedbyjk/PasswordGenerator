@@ -158,6 +158,18 @@ input[type="range"]::-webkit-slider-thumb::before {
   line-height: 1rem; /* Set the line height to center the asterisk vertically */
 }
 
+a {
+  text-align: center;
+  color: #00cc7e;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+footer{
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 
 
