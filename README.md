@@ -48,10 +48,18 @@ This project is licensed under the [MIT License](LICENSE).
 ## Feedback and Contributions 📢
 
 Feedback, suggestions, and contributions are welcome!😊 If you have any ideas💡 to improve this Password Generator🔐 or want to report any issues, please open an issue on the GitHub repository.
-
 [![GitHub stars](https://img.shields.io/github/stars/developedbyjk/color-palette-generator.svg?style=social)](https://github.com/developedbyjk/color-palette-generator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/developedbyjk/color-palette-generator.svg?style=social)](https://github.com/developedbyjk/color-palette-generator/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/developedbyjk/color-palette-generator.svg)](https://github.com/developedbyjk/color-palette-generator/issues)
+
+## Sceenshot 🖼️
+![WhatsApp Image 2023-10-18 at 9 24 15 PM (1)](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/6bfa51d9-bad4-4c25-bbbd-3042fbe5a2c9)
+
+![download](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/1d4c420e-8389-4e17-8f81-c227122e1fca)
+
+
+
+
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5b1699a6-506c-45a3-a1d8-7accd35206a5/deploy-status)](https://app.netlify.com/sites/color-palette-generator-developedbyjk/deploys)
