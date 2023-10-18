@@ -53,13 +53,12 @@ Feedback, suggestions, and contributions are welcome!😊 If you have any ideas�
 [![GitHub issues](https://img.shields.io/github/issues/developedbyjk/color-palette-generator.svg)](https://github.com/developedbyjk/color-palette-generator/issues)
 
 ## Sceenshot 🖼️
-![WhatsApp Image 2023-10-18 at 9 24 15 PM (1)](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/6bfa51d9-bad4-4c25-bbbd-3042fbe5a2c9)
 
-![download](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/1d4c420e-8389-4e17-8f81-c227122e1fca)
-
-
+![WhatsApp Image 2023-10-18 at 9 24 15 PM (1)](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/24698300-e7fd-42cb-b021-7a7a52ffbc37)
+![download](https://github.com/developedbyjk/PasswordGenerator/assets/71823598/55f8520f-5d35-4b0f-b854-3db56d03b502)
 
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5b1699a6-506c-45a3-a1d8-7accd35206a5/deploy-status)](https://app.netlify.com/sites/color-palette-generator-developedbyjk/deploys)
+
+
