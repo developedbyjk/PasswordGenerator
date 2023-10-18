@@ -1,0 +1,163 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@500&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#ast{
+  color:#00cc7e
+}
+
+body{
+  background-color: #1F2937;
+  color: white;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 70px;
+  width: 90%;
+  margin: auto;
+  /* border: 1px solid green; */
+}
+.container h1{
+  font-family: 'Space Grotesk', sans-serif;
+
+}
+
+#gotpwd{
+font-size: 1.5rem;
+ width: 100%;
+ padding: 15px;
+ outline: 0;
+ border: 0;
+  border-radius: 90px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.options{
+  margin-top: 20px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.options label  {
+
+}
+
+
+.options label span {
+  text-align: center;
+  padding: 3px 5px;
+  border: 1px solid white;
+  border-radius: 90px;
+  margin: 0px 10px;
+ 
+}
+
+.options label input {
+  position: absolute;
+  display: none;
+}
+
+.options label input:checked {
+  background-color: white;
+  color: black;
+}
+
+
+.options input:checked + span {
+  background-color: white;
+  color: black;
+  border-radius: 90px;
+  padding: 3px 5px;
+
+   
+}
+
+
+#generate-btn{
+  font-size: 1.2rem;
+  background-color: #4ADF86;
+ width: 50%;
+ padding: 15px;
+ outline: 0;
+ border: 0;
+  border-radius: 90px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+p{
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+
+.textcopysection {
+  
+  position: relative;
+
+}
+
+.fa-copy{
+
+ 
+  position: absolute;
+  display: inline;
+  right: 10%;
+  margin-top: 20px;
+
+  font-size: 1.5rem;
+  color: #1F2937;
+
+
+}
+
+
+/* STYLES FOR RANGE */
+/*********** Baseline, reset styles ***********/
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+  width: 70%;
+  
+}
+
+/* Removes default focus */
+input[type="range"]:focus {
+  outline: none;
+}
+
+/* slider track */
+input[type="range"]::-webkit-slider-runnable-track {
+  background-color: #fafafa;
+  border-radius: 0.5rem;
+  height: 0.1rem; /* Fixed typo: changed 00.1rem to 0.1rem */
+}
+
+/* slider thumb */
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none; 
+  appearance: none;
+  margin-top: -7.2px; 
+  background-color: #00cc7e;
+  border-radius: 0.5rem;
+  height: 1rem;
+  width: 1rem;
+}
+
+/* Asterisk symbol on the thumb */
+input[type="range"]::-webkit-slider-thumb::before {
+  content: '\2605';
+  font-size: 24px;
+  color: white; /* Set the color of the asterisk symbol */
+  text-align: center;
+  line-height: 1rem; /* Set the line height to center the asterisk vertically */
+}
+
+
+
+
