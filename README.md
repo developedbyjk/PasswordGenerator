@@ -1,6 +1,6 @@
 # Password Generator 🔒🗝️
 
-This is  Password Generator🔒 App created using React⚛️ and Love❤️ .🎀It provides a simple three option 🔠'Alphabet', 🔢'Number' and 🔣'Symbol' as an Option to add When 🪄Generating the Password🗝️. Moreover you😉 can also select the 📐length of the Password with a Range Dragger🧱. Just Click 🖱️the Generate Button⫸ and A Unique Random Password🔐 With Alphabets, Number and Special Symbol is Generated!😎🛡️
+This is  Password Generator🔒 App created using React⚛️ and Love❤️ .🎀It provides a simple three option 🔠'Alphabet', 🔢'Number' and 🔣'Symbol' as an Option to add When 🪄Generating the Password🗝️. Moreover you😉  can also select the 📐length of the Password with a Range Dragger🧱. Just Click 🖱️the Generate Button⫸ and A Unique Random Password🔐 With Alphabets, Number and Special Symbol is Generated!😎🛡️
 
 ## Features ✨
 
@@ -12,7 +12,7 @@ This is  Password Generator🔒 App created using React⚛️ and Love❤️ .�
 
 ## How to Use 🚀
 
-1. Visit the Color Password Generator website. 👉  
+1. Visit the  Color Password Generator website. 👉  
 2. Select From the Three Option. ✒️
 3. Choose Alphabet,Numeric & Symbol as Needed.🔽
 4. Adjuct the Length of the Pass You want to Generate. 🪄
