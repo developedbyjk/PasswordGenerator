@@ -6,6 +6,7 @@ This is  Password Generator🔒 App created using React⚛️ and Love❤️ .�
 
 ## Features ✨
 
+
 - ✅ Generate Alphanumeric Password.🔮
 - ✅ Option to Add Special Symbol 🔣
 - ✅ Adjustable password length. 🎠
