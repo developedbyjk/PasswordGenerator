@@ -5,6 +5,7 @@
 
 This is  Password Generator🔒 App created using React⚛️ and Love❤️ .🎀It provides a simple three option 🔠'Alphabet', 🔢'Number' and 🔣'Symbol' as an Option to add When 🪄Generating the Password🗝️. Moreover you😉  can also select the 📐length of the Password with a Range Dragger🧱. Just Click 🖱️the Generate Button⫸ and A Unique Random Password🔐 With Alphabets, Number and Special Symbol is Generated! 😎 
 
+
 ## Features ✨
 
 
